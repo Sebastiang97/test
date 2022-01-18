@@ -1,9 +1,11 @@
 ## Metas :two::zero::two::two:
 
-:one:  Inteligencia Artificial
+:one:  Inteligencia Artificial :computer:
 
-:hash: Aprender ingles
+:hash: Aprender ingles :speaker:
 
-:two:  Leer al menos 10  libros 
+:two:  Leer al menos 10  libros :book:
 
-:three:Hacer ejercicio :muscle:
+:three:Hacer ejercicio :muscle::bike:
+
+:trollface:
